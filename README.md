@@ -2,4 +2,4 @@
 
 A repo to learn and experiment CSS 
 
-trying to learn usding git right now,
+trying to learn using git right now,
