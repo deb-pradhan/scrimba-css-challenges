@@ -2,10 +2,9 @@
 
 A repo to learn and experiment CSS 
 
-trying to learn using git right now
-
+Short Git know how:
 for updating changes:
-1. status-> see what files have changed
-2. add-> add the files that you want to change
-3. commit-> make the changes
-4. push-> push the changes to the main github repo
+1. status-> check what files have changed
+2. add-> add the files that you want to upload(acts as the selector)
+3. commit-> short note/message on what are you changing?
+4. push-> push the changes to the remote github repo
