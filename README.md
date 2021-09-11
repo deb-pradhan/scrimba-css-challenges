@@ -1,7 +1,7 @@
 # scrimba-css-challenges
 
 ## A repo to learn and experiment CSS 
-Live webisite here: (https://debashish23.github.io/scrimba-css-challenges/)
+Live webisite here: [click here](https://debashish23.github.io/scrimba-css-challenges/)
 ---
 ## Short Git know how:
 For updating changes:
