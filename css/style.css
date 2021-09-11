@@ -1,0 +1,26 @@
+body{
+    margin: 0px;
+}
+.main-content{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(5, 61, 5) ;
+    margin: 20px;
+    
+}
+.sidebar{
+    font-family:monospace;
+    color: darkolivegreen;
+    
+}
+h1{
+    background-color: darkolivegreen;
+    color: cornsilk;
+    text-align: center;
+    margin: 0px 0px 0px 0px ;
+    size: 72px;
+    padding: 20px 20px 20px 20px; 
+}
+
+img{
+    width: 70%;
+ }
