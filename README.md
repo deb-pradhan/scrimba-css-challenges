@@ -41,5 +41,4 @@ what happens is, instead of having to write \<li> for each individual list, we c
 ---
 ### challenge 5: Styling the title
 
-Linked an image into from a subfolder and styled it with external css.
-Also
+styled the title with external css as needed. 

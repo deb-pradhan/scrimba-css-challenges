@@ -1,5 +1,6 @@
 body{
     margin: 0px;
+    /* background-color: crimson; */
 }
 .main-content{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -10,7 +11,7 @@ body{
 .sidebar{
     font-family:monospace;
     color: darkolivegreen;
-    
+    margin: 20px;
 }
 h1{
     background-color: darkolivegreen;
@@ -22,5 +23,6 @@ h1{
 }
 
 img{
-    width: 70%;
+    height:200%;
+    width: 100%;
  }
