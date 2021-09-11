@@ -1,7 +1,7 @@
 # scrimba-css-challenges
 
 ## A repo to learn and experiment CSS 
----
+--
 ## Short Git know how:
 for updating changes:
 1. status-> check what files have changed
