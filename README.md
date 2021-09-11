@@ -34,6 +34,7 @@ what happens is, instead of having to write \<li> for each individual list, we c
 
 1. Fixed the image source by mentioning the subfolder
 2. added alt text for better accessibilty 
+Also, learned about the units of size and how they work.
 ---
 ### challenge 4: Adding some style to the page
 1. Added font style, colour and size for two speciofic classes
