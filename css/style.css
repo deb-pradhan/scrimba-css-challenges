@@ -10,22 +10,21 @@ body {
 .sidebar {
   background-color: rgb(214, 235, 172);
   font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
-  color: darkolivegreen;   
+  color: darkolivegreen;
   padding: 20px;
-  margin: 20px 20px 20px 0px ;
+  margin: 20px 20px 20px 0px;
   width: 275px;
 }
 h1 {
   background-color: darkolivegreen;
   color: cornsilk;
   text-align: center;
-  margin: 0px 0px 0px 0px;
+  margin: 0px;
   size: 72px;
   padding: 20px;
 }
 
 img {
-  
   width: 100%;
 }
 
@@ -34,7 +33,7 @@ img {
   padding: 10px;
   font: 42px;
   border-bottom: solid 5px rgb(53, 70, 20);
-  margin:0px;
+  margin: 0px;
 }
 
 .bold {
@@ -50,6 +49,6 @@ img {
   display: flex;
 }
 
-a:hover{
-    color: rgb(14, 85, 29);
+a:hover {
+  color: rgb(14, 85, 29);
 }
