@@ -1,6 +1,6 @@
 # scrimba-css-challenges
 
-## A repo to learn and experiment CSS 
+## A repo I created to learn Git and experiment CSS 
 Live webisite here:   [![click me](https://img.icons8.com/dusk/50/000000/mouse-left-click.png)](https://deb-pradhan.github.io/scrimba-css-challenges/)[click here](https://deb-pradhan.github.io/scrimba-css-challenges/)
 ---
 ## Short Git know how:
