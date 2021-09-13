@@ -7,40 +7,33 @@ body {
   color: rgb(5, 61, 5);
   margin: 20px;
 }
-0
-h1 {
-    background-color: darkolivegreen;
-    color: cornsilk;
-    text-align: center;
-    margin: 0px 0px 0px 0px;
-    size: 72px;
-    padding: 20px 20px 20px 20px;
-  }
-
 .sidebar {
   background-color: rgb(214, 235, 172);
   font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
   color: darkolivegreen;   
-  padding: 10px;
-  margin-top: 20px ;
+  margin: 20px ;
   width: 275px;
 }
-
-.subheadings {
-    background-color: rgb(214, 214, 136);
-    padding: 10px;
-    font: 42px;
-    border-bottom: solid 5px rgb(53, 70, 20);
-  }
-
-
+h1 {
+  background-color: darkolivegreen;
+  color: cornsilk;
+  text-align: center;
+  margin: 0px 0px 0px 0px;
+  size: 72px;
+  padding: 20px 20px 20px 20px;
+}
 
 img {
   
   width: 100%;
 }
 
-
+.subheadings {
+  background-color: rgb(214, 214, 136);
+  padding: 10px;
+  font: 42px;
+  border-bottom: solid 5px rgb(53, 70, 20);
+}
 
 .bold {
   color: rgb(35, 51, 36);
