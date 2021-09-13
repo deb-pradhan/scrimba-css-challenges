@@ -1,5 +1,5 @@
 body{
-    margin: 0px;
+    margin: 0;
     /* background-color: crimson; */
 }
 .main-content{
@@ -17,9 +17,9 @@ h1{
     background-color: darkolivegreen;
     color: cornsilk;
     text-align: center;
-    margin: 0px 0px 0px 0px ;
+    margin: 0;
     size: 72px;
-    padding: 20px 20px 20px 20px; 
+    padding: 20px; 
 }
 
 img{
@@ -32,6 +32,6 @@ img{
      padding: 10px;
      font: 42px ;
      border-bottom-style: solid;
-     border-bottom-width:  5px; ;
+     border-bottom-width:  5px; 
      border-bottom-color: rgb(53, 70, 20);
  }
