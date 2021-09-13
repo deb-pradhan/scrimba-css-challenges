@@ -29,6 +29,8 @@ ___
 what happens is, instead of having to write \<li> for each individual list, we can write the tag for all the list simultaneously!
 4. repeat step 1-3 for adding the end tag \</li>
 
+![image](images\Animation.gif)
+
 ---
 
 ### challenge 3: Fix the image
@@ -43,4 +45,26 @@ what happens is, instead of having to write \<li> for each individual list, we c
 ---
 ### challenge 5: Styling the title
 
-styled the title with external css as needed. 
+styled the title with external css. Added background, padding and and font style.
+___
+
+### challenge 6: Styling subheadings
+Added background colour, padding and font.
+Added a border only at the bottom.
+
+Tip to write less code =>
+>instead of writing:
+```css
+.subheadings{
+     border-bottom-style: solid;
+     border-bottom-width:  5px; 
+     border-bottom-color: rgb(53, 70, 20);
+ }
+```
+>try writing this:
+```css
+.subheadings{
+     border-bottom: solid 5px rgb(53, 70, 20);
+ }
+
+
