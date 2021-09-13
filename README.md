@@ -29,7 +29,7 @@ ___
 what happens is, instead of having to write \<li> for each individual list, we can write the tag for all the list simultaneously!
 4. repeat step 1-3 for adding the end tag \</li>
 
-![image](images\Animation.gif)
+![image](https://raw.githubusercontent.com/deb-pradhan/scrimba-css-challenges/main/images/Animation.gif)
 
 ---
 
