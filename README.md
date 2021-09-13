@@ -3,8 +3,6 @@
 ## A repo I created to learn Git and experiment CSS
 
 Live webisite here:   [![click me](https://img.icons8.com/dusk/50/000000/mouse-left-click.png)](https://deb-pradhan.github.io/scrimba-css-challenges/)[click here](https://deb-pradhan.github.io/scrimba-css-challenges/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/asfskywalking.svg?style=for-the-badge&label=Follow&logo=twitter)](https://twitter.com/FrontEndDeb)
-
 [![CodeFactor](https://www.codefactor.io/repository/github/deb-pradhan/scrimba-css-challenges/badge)](https://www.codefactor.io/repository/github/deb-pradhan/scrimba-css-challenges)
 ---
 
