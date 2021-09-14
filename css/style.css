@@ -8,12 +8,13 @@ body {
   margin: 20px;
 }
 .sidebar {
-  background-color: rgb(214, 235, 172);
+  background-color: rgb(209, 243, 128);
   font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
   color: darkolivegreen;
   padding: 20px;
   margin: 20px 20px 20px 0px;
-  width: 275px;
+  width: 265px;
+  box-shadow: 10px 10px 7px rgb(102, 131, 98);
 }
 h1 {
   background-color: darkolivegreen;
@@ -26,10 +27,11 @@ h1 {
 
 img {
   width: 100%;
+  box-shadow: 10px 10px 7px rgb(116, 128, 115);
 }
 
 .subheadings {
-  background-color: rgb(214, 214, 136);
+  background-color: rgb(163, 179, 78);
   padding: 10px;
   font: 42px;
   border-bottom: solid 5px rgb(53, 70, 20);
@@ -51,4 +53,10 @@ img {
 
 a:hover {
   color: rgb(14, 85, 29);
+}
+
+.border {
+  padding: 10px;
+  border: solid 1px grey;
+  box-shadow: 10px 10px 7px rgb(203, 224, 201);
 }

@@ -108,4 +108,9 @@ Created two columns, one for the main content and other for the sidebar using fl
 ---
 
 ### challenge 10: styling our sidebar
+Added background colour, padding, fixed the extra space from top and bottom of the content, Added hover function on the href link.
 
+---
+
+### Bonus challenge: Add shadow to the sidebar
+Added a box-shadow to the side bar
